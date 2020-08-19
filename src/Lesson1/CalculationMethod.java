@@ -18,13 +18,11 @@ public class CalculationMethod {
         System.out.println("Введите значение d: ");
         double d = scanner.nextDouble();
 
-        Calculation(a,b,c,d);
+        System.out.println("a * (b + (c / d)) = " + Calculation(a,b,c,d));
 
     }
 
-    public static void Calculation (double a, double b, double c, double d){
-        double result = a * (b + (c / d));
-        System.out.println("a * (b + (c / d)) = " + result);
-
+    public static double Calculation (double a, double b, double c, double d){
+        return a * (b + (c / d));
     }
 }
