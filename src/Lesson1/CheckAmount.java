@@ -1,7 +1,7 @@
 package Lesson1;
 /*
 Задача 4: Написать метод, принимающий на вход два числа, и проверяющий что их сумма лежит
-в пределах от 10 до 20(включительно), если да – вернуть true, в противном случае – false
+в пределах от 10 до 20 (включительно), если да – вернуть true, в противном случае – false
 */
 
 import java.util.Scanner;
@@ -22,9 +22,7 @@ public class CheckAmount {
     }
     public static boolean resultSum(int c){
         boolean result;
-        if(c >= 10 && c <=20) {
-            result = true;
-        } else result = false;
+        result = c >= 10 && c <= 20;
         return result;
     }
 }
