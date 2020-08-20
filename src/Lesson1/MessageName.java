@@ -12,10 +12,10 @@ public class MessageName {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Как Вас зовут?\n");
         String userName = scanner.nextLine();
-        System.out.println(MessageForConsole(userName));
+        System.out.println(messageForConsole(userName));
 
     }
-    public static String MessageForConsole(String userName){
+    public static String messageForConsole(String userName){
         String  messageForUser = "Привет, " + userName + "!";
         return messageForUser;
     }
