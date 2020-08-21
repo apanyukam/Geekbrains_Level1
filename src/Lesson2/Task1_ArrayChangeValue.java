@@ -8,5 +8,12 @@ package Lesson2;
 public class Task1_ArrayChangeValue {
     public static void main(String[] args) {
         int[] firstArray = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0 };
+        System.out.println("Новые значения элементов массива:");
+        for (int i = 0; i< firstArray.length; i++){
+            if(firstArray[i] == 1){
+                firstArray[i] = 0;
+            }else firstArray[i] =1;
+            System.out.print(firstArray[i]);
+        }
     }
 }
