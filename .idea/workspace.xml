@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="" />
+    <option name="COMMIT_PATTERN" value="{message}" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69a2e2ea-568a-401c-98fa-438cf46d0170" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="apanyukam" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Geekbrains_Level1" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/apanyukam/Geekbrains_Level1" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gK2cL0wstwzG3oiQy2JIb7hAZl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.LeapYear">
+    <configuration name="CalculationMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.CalculationMethod" />
+      <module name="Geekbrains_Level1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckAmount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.CheckAmount" />
+      <module name="Geekbrains_Level1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckNegativeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.CheckNegativeNumber" />
+      <module name="Geekbrains_Level1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.LeapYear" />
+      <module name="Geekbrains_Level1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.MessageName" />
+      <module name="Geekbrains_Level1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MessageName" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.CheckNegativeNumber" />
+        <item itemvalue="Application.CheckAmount" />
+        <item itemvalue="Application.CalculationMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a2e2ea-568a-401c-98fa-438cf46d0170" name="Default Changelist" comment="" />
+      <created>1597849043147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597849043147</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Homework lesson1, task1">
+      <created>1597849955197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597849955197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework lesson1, task3">
+      <created>1597853899922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597853899922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework lesson1, task4">
+      <created>1597856881659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597856881659</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework lesson1, task3 and task4 - code optimization">
+      <created>1597857182624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597857182624</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework lesson1, task5">
+      <created>1597858823821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597858823821</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework lesson1, task6">
+      <created>1597859324872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597859324872</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework lesson1, task7, task8">
+      <created>1597861945537</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597861945537</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homework lesson1, task7">
+      <created>1597951404509</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597951404509</updated>
+    </task>
+    <task id="LOCAL-00009" summary="vcs commit">
+      <created>1597956331175</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597956331175</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New branch">
+      <created>1597957486969</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597957486969</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit cvs.xml">
+      <created>1598013603804</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598013603804</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task1_ArrayChangeValue added">
+      <created>1598019347555</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598019347555</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task1 completed">
+      <created>1598040684688</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598040684689</updated>
+    </task>
+    <task id="LOCAL-00014" summary="HW_Lesson2 Task2 completed">
+      <created>1598043197060</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598043197060</updated>
+    </task>
+    <task id="LOCAL-00015" summary="HW_Lesson2 Task3 completed">
+      <created>1598044719607</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1598044719607</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework lesson1, task1" />
+    <MESSAGE value="Homework lesson1, task3" />
+    <MESSAGE value="Homework lesson1, task4" />
+    <MESSAGE value="Homework lesson1, task3 and task4 - code optimization" />
+    <MESSAGE value="Homework lesson1, task5" />
+    <MESSAGE value="Homework lesson1, task6" />
+    <MESSAGE value="Homework lesson1, task7, task8" />
+    <MESSAGE value="Homework lesson1, task7" />
+    <MESSAGE value="vcs commit" />
+    <MESSAGE value="New branch" />
+    <MESSAGE value="commit cvs.xml" />
+    <MESSAGE value="Task1_ArrayChangeValue added" />
+    <MESSAGE value="Task1 completed" />
+    <MESSAGE value="HW_Lesson2 Task2 completed" />
+    <MESSAGE value="HW_Lesson2 Task3 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_Lesson2 Task3 completed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="59" key="#Java" timestamp="1597955193855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="550" y="59" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1597955193855" />
+    <state x="712" y="344" key="#Notifications" timestamp="1597958450777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1597958450777" />
+    <state x="552" y="161" key="#Plugins" timestamp="1598045041492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1598045041492" />
+    <state x="563" y="43" width="745" height="844" key="CommitChangelistDialog2" timestamp="1598044719045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="43" width="745" height="844" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598044719045" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1597952331430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597952331430" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598045030028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598045030028" />
+    <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1597861979202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597861979202" />
+    <state x="723" y="387" key="Github.CreatePullRequestDialog" timestamp="1597863118080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="387" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597863118080" />
+    <state x="817" y="418" key="Github.ShareDialog" timestamp="1597849141457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597849141457" />
+    <state x="770" y="225" key="Github.UntrackedFilesDialog" timestamp="1597849193437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597849193437" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1598044968978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598044968978" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1598044968977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598044968977" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1598044968977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598044968977" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1598044968977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598044968977" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598044968978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598044968978" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1598044968978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598044968978" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1598044968978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598044968978" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1598044968978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598044968978" />
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog" timestamp="1597954205380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597954205380" />
+    <state x="807" y="433" key="VCS.ChangelistChooser" timestamp="1598025208809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598025208809" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598044721288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598044721288" />
+    <state x="592" y="249" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1597863110431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="249" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597863110431" />
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597951369629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1597951369629" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598014445900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598014445900" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Geekbrains_Level1$Task2_FillingArray.ic" NAME="Task2_FillingArray Coverage Results" MODIFIED="1598042701432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
